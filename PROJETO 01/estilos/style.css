@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+
+}
+
+  
+.pai{
+background-color: #9c9494;
+height: 100vh;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.filho{
+background-color: bisque;
+border-radius: 20px;
+width: 200px;
+height: 200px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+}
+
+button{
+    background-color: #3efa04;
+    color:rgb(0, 81, 151);
+    padding: 10px; 
+    border-radius: 10px;
+    border: none;
+}
